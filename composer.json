@@ -1,0 +1,17 @@
+{
+  "name": "vansanblch/yell-ge",
+  "description": "Yell.ru task one",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ivan Nikulin",
+      "email": "vansanblch@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "YellGE\\": "src/"
+    }
+  }
+}
